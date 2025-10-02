@@ -1,4 +1,4 @@
-# Python_Project
+# Python_Projects
 🕸️ Web Scraping with Python – Flipkart Mobile Data
 📌 Overview
 
